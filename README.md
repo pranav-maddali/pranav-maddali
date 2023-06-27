@@ -1,5 +1,5 @@
 - 👋 hi, i’m pranav!
-- 👀 i'm interested in software engineering
+- 👀 interested in software engineering
 - 🌱 graduated from UCLA (computer science)
 - 📫 reach me at mpranav@ucla.edu
 
